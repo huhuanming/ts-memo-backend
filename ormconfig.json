@@ -3,7 +3,7 @@
    "database": "db.sqlite3",
    "autoSchemaSync": true,
    "synchronize": true,
-   "logging": false,
+   "logging": true,
    "entities": [
       "src/entity/**/*.ts"
    ],
